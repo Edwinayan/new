@@ -1,1 +1,4 @@
 # new
+drink
+eat
+jum
